@@ -1,0 +1,24 @@
+main{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+header > a{
+    font-size: 22px;
+}
+a{
+    color: green;
+    text-decoration: none;
+    font-size: 17px;
+}
+a:hover{
+    font-weight: 700;
+}
+.add{
+    padding-left: 5%;
+    position: relative;
+    bottom: 12px;
+}

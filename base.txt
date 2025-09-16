@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New Page | Website Speedrun</title>
+        <link rel="icon" type="image/x-icon" href="favicon.png">
+        <link rel="stylesheet" type="text/css" href="css/style.css"
+    </head>
+    
+    <body>
+        <header>
+            HOME | DOWNLOAD EXTENSION | PATREON
+        </header>
+        
+        <content>
+            <h1>Website Speedrun Game</h1>
+        </content>
+        
+        <footer>
+            
+        </footer>
+    </body>
+</html>
